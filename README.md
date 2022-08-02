@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Cloud computing,Web Development**
+- 💬 Ask me about **Cloud computing,Web Development, Open source**
 
 - 📫 How to reach me **subhanganijha@gmail.com**
 
