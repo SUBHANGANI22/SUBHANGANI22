@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Subhangani Jha</h1>
 <h3 align="center">A passionate full stack software developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/700/1*qdAW1TjCN57h1lbuuzvchg.gif">
-<img src="https://gist.githubusercontent.com/SUBHANGANI22/dbcdf4535ebd29d544d8b1dd1ceee004/raw/liveChat.svg">
+<img align="left"src="https://gist.githubusercontent.com/SUBHANGANI22/dbcdf4535ebd29d544d8b1dd1ceee004/raw/liveChat.svg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhangani22&label=Profile%20views&color=0e75b6&style=flat" alt="subhangani22" /> </p>
 
