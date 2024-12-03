@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://gist.githubusercontent.com/SUBHANGANI22/dbcdf4535ebd29d544d8b1dd1ceee004/raw/liveChat.svg"></p>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" >
 
-- 🔭 I’m currently working on [indo_bio_crop](https://subhangani22.github.io/futurereadyproject/)
+- 🔭<s> I’m currently working on [indo_bio_crop](https://subhangani22.github.io/futurereadyproject/) </s>
 
 - 🌱 I’m currently learning **React Native**
 
