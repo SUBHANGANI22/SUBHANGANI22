@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **subhanganijha@gmail.com** 
 
-- ⚡ Fun fact **I'm funny but sarcastically **
+- ⚡ Fun fact **I break things to learn how they work , then fix them cleaner than before. **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
