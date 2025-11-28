@@ -11,15 +11,17 @@
 <p align="left"> <img src="https://gist.githubusercontent.com/SUBHANGANI22/dbcdf4535ebd29d544d8b1dd1ceee004/raw/liveChat.svg"></p>
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" >
 
-- 🔭<s> I’m currently working on [indo_bio_crop](https://subhangani22.github.io/futurereadyproject/) </s>
+- 🔭<s> I’m currently working on [indo_bio_crop](https://subhangani22.github.io/futurereadyproject/) </s> DONE
 
-- 🌱 I’m currently learning **React Native**
+- 🌱<s>I’m currently learning **React Native**</s> DONE
+- 🌼 Learned Asp .net, C# this year and contributed to some high end projects
+- ✍🏻 Writing blogs and case studies to understand and articulate tech
+- 🌌 I am currently learning about System Design suggestions would be appreciated
+- 💬 Ask me about **Cloud computing,Web Development, Open source, anything comp science**
 
-- 💬 Ask me about **Cloud computing,Web Development, Open source**
+- 📫 How to reach me **subhanganijha@gmail.com** 
 
-- 📫 How to reach me **subhanganijha@gmail.com**
-
-- ⚡ Fun fact **I'm funny but sarcastically**
+- ⚡ Fun fact **I'm funny but sarcastically **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
